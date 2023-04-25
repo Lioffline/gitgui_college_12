@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 #include "askname.h"
-
+//Изменённые данные для задания
 int main(int argc, char **argv)
 {
     char first[255], last[255];
